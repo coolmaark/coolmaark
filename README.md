@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ravi nikith kurella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi nikith kurella" height="30" width="40" /></a>
-<a href="https://fb.com/ravikurella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravikurella" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravi-nikith-k-6300bb223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi nikith kurella" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ravinikhitkurella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravikurella" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ravikurella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravikurella" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravikurella1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravikurella1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/coolmaark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coolmaark" height="30" width="40" /></a>
