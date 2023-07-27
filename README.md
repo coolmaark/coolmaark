@@ -1,6 +1,6 @@
 [![MasterHead](https://www.reloadly.com/blog/wp-content/uploads/2022/12/Anatomy-of-the-API-Software-Developer-1536x864.jpg)](https://github.com/coolmaark)
 <h1 align="center">Hi 👋, I'm Ravi Nikith Kurella</h1>
-<h3 align="center">A passionate full stack from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?w=740&t=st=1672423715~exp=1672424315~hmac=98c325e8ed0782caa051b7fab16e79df4378f0990fa08e110282f8859fc16377">
 - 🌱 I’m currently learning **machine learning**
 
