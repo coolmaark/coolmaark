@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **c++, python, HTML, CSS**
 
-- 📫 How to reach me **ravikurella1@gmail.com**
+- 📫 How to reach me **ravinikithkurella@gmail.com**
 
 - ⚡ Fun fact **the earth is round**
 
